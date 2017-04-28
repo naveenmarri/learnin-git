@@ -1,2 +1,3 @@
 testing a new git thingy
 hello
+hmm, third line
